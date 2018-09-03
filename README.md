@@ -1,1 +1,3 @@
-# labview_sql_class
+LabVIEW SQL Class for SQL Express
+Created by Fernando Guillen 2018
+
